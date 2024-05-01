@@ -1,6 +1,7 @@
 // TODO: Include packages needed for this application
 const inquirer = require('inquirer');
 const fs = require('fs');
+const generateMarkdown = require('./utils/generateMarkdown');
 
 // TODO: Create an array of questions for user input
 const questions = () => {
@@ -39,7 +40,7 @@ const questions = () => {
             type: 'list', 
             message: 'Please include any tests of your project.',
             name: 'license',
-            choices: ['MIT', 'MPL', 'Apache', 'Unlicense'],
+            choices: ['MIT', 'MPL', 'Apache', 'Unlicense', 'None'],
         },
         {
             type: 'input',
@@ -65,8 +66,7 @@ function writeToFile(fileName, data) {
 // TODO: Create a function to initialize app
 function init() { 
     questions()
-    .then((data) => writeToFile('README.md', generateMarkdown(data)))
-    .then(() => console.log('Successfully created README.md'))
+    .then((response) => writeToFile('README.md', generateMarkdown(response)))
     .catch((err) => console.error(err));
 }
 
