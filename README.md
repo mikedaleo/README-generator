@@ -3,6 +3,9 @@
   ## Description
   A command-line application that dynamically generates a professional README.md file from a user's input.
   
+  ## Video Walkthrough
+  https://drive.google.com/file/d/1U6ZTrYIQRCYv-aHs7JSuQKuiyLE0I9-d/view
+
   ## Table of Contents
   [Installation](#installation)  
   [Usage](#usage)  
