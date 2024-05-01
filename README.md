@@ -1,7 +1,7 @@
-# adasdasdasd
-  [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/) 
+# README Generator
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
   ## Description
-  asdasdas
+  A command-line application that dynamically generates a professional README.md file from a user's input.
   
   ## Table of Contents
   [Installation](#installation)  
@@ -14,18 +14,18 @@
   
   
   ## <a id="installation"></a>Installation
-  das
+  N/A
   ## <a id="usage"></a>Usage
-  dasdaas
+  As a tool for developers to quickly create a professional README for a new project.
   ## <a id="license"></a>License
 
-This application uses the Unlicense license: http://unlicense.org
+This application uses the MIT license: https://opensource.org/licenses/MIT
   ## <a id="contributing"></a>Contributing
-  dasdasd
+  Please fork the repository, make your edits, and then request to merge back to the main project.
   ## <a id="tests"></a>Tests
-  asd
+  N/A
   ## <a id="questions"></a>Questions
   If you have any questions, please contact me:  
-  <a href="https://github.com/asdasd">GitHub</a>  
+  <a href="https://github.com/mikedaleo">GitHub</a>  
   or  
-  Email: asdas
+  Email: mikejdaleo@gmail.com
