@@ -5,6 +5,7 @@
   
   ## Video Walkthrough
   https://drive.google.com/file/d/1U6ZTrYIQRCYv-aHs7JSuQKuiyLE0I9-d/view
+  ![Screenshot](./assets/images/README%20generator%20CLI.PNG)
 
   ## Table of Contents
   [Installation](#installation)  
